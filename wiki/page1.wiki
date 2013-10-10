@@ -1,13 +1,13 @@
 #summary One-sentence summary of this page.
-#labels 演示地址,red5,视频会议,网络教学
+#labels 演示地址,red5,视频会议,网络教学,FMS,p2p
 
 = 演示地址说明 =
 
-http://demo.f2fedu.com/demo.php
-
+http://demo.f2fedu.com/demo.php (基于red5的系统演示)
+http://demo.f2fedu.com/demop2p.php (基于FMS的系统演示)
 
 = 详细说明 =
 
-  * 基于red5的系统演示
   * 登陆帐号密码随意填写，（游客登陆方式）。
   * 登陆帐号密码均为test1-test9,(主席/讲师登陆方式)。
+  * 基于FMS4的演示，视音频采用p2p广播方式，只适合一对多的讲课方式，对客户端带宽要求稍大，优点是服务端带宽要求低。
