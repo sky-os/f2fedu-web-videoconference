@@ -1,0 +1,13 @@
+#summary One-sentence summary of this page.
+#labels 演示地址,red5,视频会议,网络教学
+
+= 演示地址说明 =
+
+http://demo.f2fedu.com/demo.php
+
+
+= 详细说明 =
+
+  * 基于red5的系统演示
+  * 登陆帐号密码随意填写，（游客登陆方式）。
+  * 登陆帐号密码均为test1-test9,(主席/讲师登陆方式)。
